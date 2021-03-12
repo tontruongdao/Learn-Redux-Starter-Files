@@ -1,0 +1,1 @@
+- Create Redux store component
